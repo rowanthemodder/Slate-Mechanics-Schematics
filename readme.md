@@ -9,15 +9,9 @@ Contents:
 - Lots of stress generator designs!
 - Some structures!
 
-## Trains Sizes
-
-### Mini
-
-### Small
-
-### Medium
-
-### Large
-
-
-## Farms
+These folders:
+- Farms
+- Redstone
+- Trains
+Require these mods:
+- Create
