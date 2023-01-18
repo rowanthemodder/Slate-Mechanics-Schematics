@@ -12,6 +12,11 @@ Contents:
 These folders:
 - Farms
 - Redstone
-- Trains
+- [Trains](https://github.com/rowanthemodder/Slate-Mechanics-Schematics/tree/main/trains/trains.md)
+
 Require these mods:
-- Create
+- [Create Forge](https://www.curseforge.com/minecraft/mc-mods/create)
+
+or
+
+- [Create Fabric](https://www.curseforge.com/minecraft/mc-mods/create-fabric)
