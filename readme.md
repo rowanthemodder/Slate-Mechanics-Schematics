@@ -10,8 +10,8 @@ Contents:
 - Some structures!
 
 These folders:
-- Farms
-- Redstone
+- [Farms](https://github.com/rowanthemodder/Slate-Mechanics-Schematics/tree/main/farms/farms.md)
+- [Redstone](https://github.com/rowanthemodder/Slate-Mechanics-Schematics/tree/main/redstone/redstone.md)
 - [Trains](https://github.com/rowanthemodder/Slate-Mechanics-Schematics/tree/main/trains/trains.md)
 
 Require these mods:
