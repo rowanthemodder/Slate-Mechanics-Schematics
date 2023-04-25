@@ -2,9 +2,9 @@
 
 Welcome to the Slate Mechanics Schematic directory!
 
-Contents:
-- Trains in 4 sizes.
-- Farms for most things.
+# Table of Contents:
+- [Farms](https://github.com/rowanthemodder/Slate-Mechanics-Schematics/tree/main/farms/farms.md) for most things.
+- [Trains](https://github.com/rowanthemodder/Slate-Mechanics-Schematics/tree/main/trains/trains.md) in 4 sizes.
 - Some thematic naming conventions if you want them.
 - Lots of stress generator designs!
 - Some structures!
